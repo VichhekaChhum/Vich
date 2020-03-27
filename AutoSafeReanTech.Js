@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="good-cheap-cars-in-2018.html"}
 if(x=="2"){xxx="5-connectivity-trends-that-will-shape-automotive-industry.html"}
 if(x=="3"){xxx="how-your-business-can-ensure-success-in-the-experience-economy.html"}
-if(x=="4"){xxx="5-life-planning-steps-for-career-professionals.html"}a_to_ve[i].href="https://www.filesafelk.net/2019/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="5-life-planning-steps-for-career-professionals.html"}a_to_ve[i].href="http://www.reantech.online/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
