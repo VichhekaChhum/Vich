@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="a.html"}
 if(x=="2"){xxx="b.html"}
 if(x=="3"){xxx="c.html"}
-if(x=="4"){xxx="rean-tech-official-link-download.html"}a_to_ve[i].href="http://www.reantech.online/2020/03/"+xxx+"#?o="+aesCrypto.encrypt(convertstr(generateurl.val()),convertstr('root'));resulturl.val(resultgenerate);}}
+if(x=="4"){xxx="rean-tech-official-link-download.html"}a_to_ve[i].href=""http://www.reantech.online/2020/03/"+xxx+"?url="+ aesCrypto.encrypt(convertstr(generateurl.val()),convertstr('root'));}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
